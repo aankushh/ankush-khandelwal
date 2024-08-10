@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Set default theme
-    body.classList.add('light-theme');
+    body.classList.add('dark-theme');
 
     // Skills Section Interactivity
     const skillHeadings = document.querySelectorAll('.skill-heading');
